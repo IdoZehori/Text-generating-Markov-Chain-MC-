@@ -1,6 +1,5 @@
 # Text-generating-Markov-Chain-MC
-
-Teach a Markov Chain to write new Nietzsche books
+## Teach a Markov Chain to write new Nietzsche books
 
 ### Some of the never-before-seen Nietzsche wisdom:
 
