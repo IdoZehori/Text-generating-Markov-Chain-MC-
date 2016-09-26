@@ -2,6 +2,8 @@
 
 Teach a Markov Chain to write new Nietzsche books
 
+### Some of the never-before-seen Nietzsche wisdom:
+
 1. Wit even in their greatest exploit are not the jews the inventors of sin was rarely a great trouble but christians stood subsequently    how to do justice however desirable it may be found to be so his character is more in love with it and it is at least more easily        understood thaln 
 
 2. A man to lau a man who loves like a woman becomes thereby a more perfect woman the passion of the beloved woman in uow does it happen    that warm and rainy winds bring the musical mood and the inventive delight in melody with them are they not obliged first of all        surmount 
